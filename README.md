@@ -38,7 +38,7 @@ function reqListener () {
 oReq.addEventListener("load", reqListener);
 ```
 - Set the destination and send the request!
-``` js
+``` 
 oReq.open("GET", "http://www.google.com");
 oReq.send();
 ```
@@ -81,8 +81,8 @@ oReq.send();
   * Hoth
   * Dagobah
   * Bespin
-  * Endor
   * Naboo
+  * Endor
   * Coruscant
   * Kamino
   * Geonosis
